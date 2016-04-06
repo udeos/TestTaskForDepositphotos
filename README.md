@@ -5,3 +5,4 @@
     make submission
 
    ...It takes a minute on my laptop.
+   Submission result on kaggle: 0.77464
